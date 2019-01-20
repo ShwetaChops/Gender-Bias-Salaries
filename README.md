@@ -1,2 +1,7 @@
 # Gender-Bias-Salaries
-Evaluation of whether there is gender bias present in the first salary offered to fresh Engineering Graduates
+
+Evaluation Study of whether there is gender bias present in the first salary offered to fresh Engineering Graduates
+
+This evaluation study examines data regarding the first salary paid to engineering graduates in India, just after graduation, with a specific focus on understanding the role of gender in affecting the salary amount. The engineering discipline has long been a sought after academic field of study in India. However, the field has historically been dominated by men and remains so. At present, the gender distribution of Indian engineering undergraduates stands at a 3:1 ratio of males to females. Indian society is also known to be deeply patriarchal, having poorer human development indicators for women versus men. Women, thus, face discrimination and inequality which is perceived to translate into wage gaps due to gender bias. However, Indian society is evolving and a new wave of feminism and conversation regarding gender equality is on the horizon. In this light, it is interesting to understand whether the female youth of today are facing gender bias in terms of their employment outcomes. 
+
+This study aims to answer the question of whether there is gender bias in the first salary amounts paid to fresh engineering graduates in India. More specifically, it seeks to examine whether gender affects performance indicators like cognitive tests and academic examinations for female graduates, and consequently affects their Salaries to understand the complete effect of Gender on Salaries.
